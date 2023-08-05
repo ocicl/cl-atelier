@@ -4,7 +4,7 @@ An atelier for Common Lisp developers
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/melusina-org/cl-atelier.git   |
-| commit  | {"messa  |
+| commit  | e1f2bea  |
 | systems | cl-atelier |
 |---------+-------------------------------------------|
 
