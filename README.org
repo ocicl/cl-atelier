@@ -5,5 +5,5 @@ An atelier for Common Lisp developers
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/melusina-org/cl-atelier.git |
 | commit  | e1f2bea                                            |
-| systems | (org.melusina.atelier)                             |
+| systems | org.melusina.atelier                               |
 |---------+----------------------------------------------------|
