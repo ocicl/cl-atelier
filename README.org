@@ -4,6 +4,6 @@ An atelier for Common Lisp developers
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/melusina-org/cl-atelier.git |
-| commit  | 7f62e8c                                            |
+| commit  | a97723f                                            |
 | systems | org.melusina.atelier                               |
 |---------+----------------------------------------------------|
