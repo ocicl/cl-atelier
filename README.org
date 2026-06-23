@@ -7,3 +7,4 @@ An atelier for Common Lisp developers
 | commit  | 2d0ec24                                            |
 | systems | org.melusina.atelier                               |
 |---------+----------------------------------------------------|
+ 
